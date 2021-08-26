@@ -1,6 +1,6 @@
 import qrcode  # Baixando a Biblioteca
 
-url = 'https://flexalugueis.herokuapp.com/' # Colocar o item
+url = 'https://www.instagram.com/nicolau_the_great/' # Colocar o link
 
 # Criando a o obejto
 qr = qrcode.QRCode(
